@@ -5,17 +5,17 @@ VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{401B4F73-2661-4403-82AB-D810F98C57F9}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{C3527832-5D20-4995-915E-9CC9268BA486}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{C3527832-5D20-4995-915E-9CC9268BA486}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCompany.MyProduct", "src\MyCompany.MyProduct\MyCompany.MyProduct.csproj", "{03C63432-3887-47D2-9B02-CCB755F6AE2B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCompany.MyProduct.HttpApi", "src\MyCompany.MyProduct.HttpApi\MyCompany.MyProduct.HttpApi.csproj", "{3EF9E3ED-2E0C-40C7-B7D0-0C39A0045756}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCompany.MyProduct.UnitTests", "test\MyCompany.MyProduct.UnitTests\MyCompany.MyProduct.UnitTests.csproj", "{EA31F85C-87DA-4A74-B7F7-D01052C5C6A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCompany.MyProduct.UnitTests", "tests\MyCompany.MyProduct.UnitTests\MyCompany.MyProduct.UnitTests.csproj", "{EA31F85C-87DA-4A74-B7F7-D01052C5C6A4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCompany.MyProduct.HttpApi.UnitTests", "test\MyCompany.MyProduct.HttpApi.UnitTests\MyCompany.MyProduct.HttpApi.UnitTests.csproj", "{21E500FE-7A21-4571-BDE3-006F098E69F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCompany.MyProduct.HttpApi.UnitTests", "tests\MyCompany.MyProduct.HttpApi.UnitTests\MyCompany.MyProduct.HttpApi.UnitTests.csproj", "{21E500FE-7A21-4571-BDE3-006F098E69F6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCompany.MyProduct.HttpApi.IntegrationTests", "test\MyCompany.MyProduct.HttpApi.IntegrationTests\MyCompany.MyProduct.HttpApi.IntegrationTests.csproj", "{37FFDC5A-304B-4DA7-965E-2457B3F70BC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCompany.MyProduct.HttpApi.IntegrationTests", "tests\MyCompany.MyProduct.HttpApi.IntegrationTests\MyCompany.MyProduct.HttpApi.IntegrationTests.csproj", "{37FFDC5A-304B-4DA7-965E-2457B3F70BC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
